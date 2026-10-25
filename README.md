@@ -15,11 +15,15 @@ I created this repository to document my Core Java learning journey and maintain
 
 | No. | Topic / Assignment | Folder |
 |---|---|---|
-| 01 | Introduction of Java | `01-Introduction-of-Java` |
-| 02 | Decision Making Statement | `02-Decision-Making-Statement` |
-| 03 | Looping or Control Statement | `03-Looping-or-Control-Statement` |
-| 04 | Pattern Printing Assignment | `04-Pattern-Printing-Assignment` |
-| 05 | Array with DSA | `05-Array-with-DSA` |
+## 📚 Topics Covered
+
+| No. | Topic | Practice Questions |
+|---|---|---|
+| 01 | Introduction of Java | [View Topic](01-Introduction-of-Java/) |
+| 02 | Decision Making Statement | [View Topic](02-Decision-Making-Statement/) |
+| 03 | Looping or Control Statement | [View Topic](03-Looping-or-Control-Statement/) |
+| 04 | Pattern Printing Assignment | [View Topic](04-Pattern-Printing-Assignment/) |
+| 05 | Array with DSA | [View Topic](05-Array-with-DSA/) |
 | 06 | Classes and Object (OOP) | `06-Classes-and-Object-OOP` |
 | 07 | Constructor and Functions (OOP) | `07-Constructor-and-Functions-OOP` |
 | 08 | Inheritance, Abstraction and Interface (OOP) | `08-Inheritance-Abstraction-and-Interface-OOP` |
