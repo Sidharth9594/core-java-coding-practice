@@ -13,21 +13,22 @@ I created this repository to document my Core Java learning journey and maintain
 
 ## 📚 Topics Covered
 
-| No. | Topic | Folder |
+| No. | Topic / Assignment | Folder |
 |---|---|---|
 | 01 | Introduction of Java | `01-Introduction-of-Java` |
 | 02 | Decision Making Statement | `02-Decision-Making-Statement` |
 | 03 | Looping or Control Statement | `03-Looping-or-Control-Statement` |
-| 04 | Array with DSA | `04-Array-with-DSA` |
-| 05 | Classes and Object (OOP) | `05-Classes-and-Object-OOP` |
-| 06 | Constructor and Functions (OOP) | `06-Constructor-and-Functions-OOP` |
-| 07 | Inheritance, Abstraction and Interface (OOP) | `07-Inheritance-Abstraction-and-Interface-OOP` |
-| 08 | Exception Handling | `08-Exception-Handling` |
-| 09 | Collection Framework (DSA) | `09-Collection-Framework-DSA` |
-| 10 | Wrapper Classes and Strings | `10-Wrapper-Classes-and-Strings` |
-| 11 | Multithreading | `11-Multithreading` |
-| 12 | File Handling / IOStreams | `12-File-Handling-IOStreams` |
-| 13 | JDK 1.8 Features | `13-JDK-1.8-Features` |
+| 04 | Pattern Printing Assignment | `04-Pattern-Printing-Assignment` |
+| 05 | Array with DSA | `05-Array-with-DSA` |
+| 06 | Classes and Object (OOP) | `06-Classes-and-Object-OOP` |
+| 07 | Constructor and Functions (OOP) | `07-Constructor-and-Functions-OOP` |
+| 08 | Inheritance, Abstraction and Interface (OOP) | `08-Inheritance-Abstraction-and-Interface-OOP` |
+| 09 | Exception Handling | `09-Exception-Handling` |
+| 10 | Collection Framework (DSA) | `10-Collection-Framework-DSA` |
+| 11 | Wrapper Classes and Strings | `11-Wrapper-Classes-and-Strings` |
+| 12 | Multithreading | `12-Multithreading` |
+| 13 | File Handling / IOStreams | `13-File-Handling-IOStreams` |
+| 14 | JDK 1.8 Features | `14-JDK-1.8-Features` |
 
 ## 🛠️ Technologies Used
 
