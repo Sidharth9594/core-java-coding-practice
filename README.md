@@ -1,42 +1,99 @@
-# Core Java Coding Practice
+# Core Java Coding Practice ☕️
 
-Welcome to my Core Java Coding Practice repository! This repository contains my Java programming practice questions, organized topic by topic.
+Welcome to my **Core Java Coding Practice** repository! This repository contains my Java programming practice questions, organized topic-wise to strengthen my programming fundamentals, logical thinking, and problem-solving skills.
 
-## About This Repository
+## 🎯 About This Repository
 
-I created this repository to strengthen my Java fundamentals, improve problem-solving skills, and prepare for technical interviews and coding assessments.
+I created this repository to document my Core Java learning journey and maintain all my coding practice programs in one place.
 
-## Topics Covered
+- 📚 Topic-wise Java programming questions
+- 💻 Hands-on coding practice
+- 🧠 Logic building and problem-solving
+- 🎯 Preparation for coding assessments and technical interviews
 
-| No. | Topic | Status |
+## 📚 Topics Covered
+
+| No. | Topic | Folder |
 |---|---|---|
-| 01 | Introduction to Java | Completed |
-| 02 | Decision-Making Statements | Completed |
-| 03 | Looping Control Statements | Completed |
-| 04 | Arrays and DSA | Completed |
-| 05 | Classes and Objects | Completed |
-| 06 | Constructors and Functions | Completed |
-| 07 | Inheritance, Abstraction and Interfaces | Completed |
+| 01 | Introduction of Java | `01-Introduction-of-Java` |
+| 02 | Decision Making Statement | `02-Decision-Making-Statement` |
+| 03 | Looping or Control Statement | `03-Looping-or-Control-Statement` |
+| 04 | Array with DSA | `04-Array-with-DSA` |
+| 05 | Classes and Object (OOP) | `05-Classes-and-Object-OOP` |
+| 06 | Constructor and Functions (OOP) | `06-Constructor-and-Functions-OOP` |
+| 07 | Inheritance, Abstraction and Interface (OOP) | `07-Inheritance-Abstraction-and-Interface-OOP` |
+| 08 | Exception Handling | `08-Exception-Handling` |
+| 09 | Collection Framework (DSA) | `09-Collection-Framework-DSA` |
+| 10 | Wrapper Classes and Strings | `10-Wrapper-Classes-and-Strings` |
+| 11 | Multithreading | `11-Multithreading` |
+| 12 | File Handling / IOStreams | `12-File-Handling-IOStreams` |
+| 13 | JDK 1.8 Features | `13-JDK-1.8-Features` |
 
-## Repository Structure
+## 🛠️ Technologies Used
 
-Each topic has a separate folder containing Java programs with numbered filenames.
+- **Language:** Java
+- **Development Kit:** JDK
+- **Version Control:** Git
+- **Code Hosting:** GitHub
 
-## Technologies Used
+## 📂 Repository Structure
 
-- Java
-- JDK
-- Git and GitHub
+Each topic has its own folder containing Java source files with numbered questions for easy navigation.
 
-## Learning Goals
+```text
+core-java-coding-practice/
+├── README.md
+├── 01-Introduction-of-Java/
+├── 02-Decision-Making-Statement/
+├── 03-Looping-or-Control-Statement/
+├── 04-Array-with-DSA/
+├── 05-Classes-and-Object-OOP/
+├── 06-Constructor-and-Functions-OOP/
+├── 07-Inheritance-Abstraction-and-Interface-OOP/
+├── 08-Exception-Handling/
+├── 09-Collection-Framework-DSA/
+├── 10-Wrapper-Classes-and-Strings/
+├── 11-Multithreading/
+├── 12-File-Handling-IOStreams/
+└── 13-JDK-1.8-Features/
+```
 
-- Strengthen Core Java concepts
-- Practice logical problem-solving
-- Improve coding skills
-- Prepare for technical interviews
+## 🚀 How to Run the Programs
+
+1. Install the Java Development Kit (JDK).
+2. Clone or download this repository.
+3. Open the required topic folder.
+4. Compile a Java program:
+
+   ```bash
+   javac Q01_HelloWorld.java
+   ```
+
+5. Run the program using its class name:
+
+   ```bash
+   java Q01_HelloWorld
+   ```
+
+   Replace `Q01_HelloWorld` with the actual class name of your program.
+
+## 🎓 Learning Goals
+
+- Build strong Core Java fundamentals.
+- Improve logical thinking and coding accuracy.
+- Practice common programming problems.
+- Strengthen preparation for technical interviews and coding rounds.
+
+## 📈 Progress
+
+I practice approximately **50–100 questions per topic**, depending on the topic and its requirements. This repository serves as a record of my coding practice and continuous learning.
+
+## 🤝 Connect
+
+Feel free to explore the repository, review the code, and share suggestions for improvement.
 
 ---
 
-**Language:** Java
+⭐ If you find this repository useful, consider giving it a star!
 
-**Purpose:** Learning, practice, and interview preparation.
+**Happy Coding! ☕️**
