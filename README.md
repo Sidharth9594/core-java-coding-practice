@@ -1,104 +1,55 @@
-# Core Java Coding Practice ☕️
+# Core Java Coding Practice
 
-Welcome to my **Core Java Coding Practice** repository! This repository contains my Java programming practice questions, organized topic-wise to strengthen my programming fundamentals, logical thinking, and problem-solving skills.
+My Core Java practice programs from my Java Full Stack Development course, organized by topic.
 
-## 🎯 About This Repository
+## Topics available
 
-I created this repository to document my Core Java learning journey and maintain all my coding practice programs in one place.
+| No. | Topic | Folder |
+|-----|-------|--------|
+| 01 | Introduction to Java | [01-Introduction-to-Java](https://github.com/Sidharth9594/core-java-coding-practice/tree/main/01-Introduction-to-Java) |
+| 02 | Decision Making Statements | [02-Decision-Making-Statement](https://github.com/Sidharth9594/core-java-coding-practice/tree/main/02-Decision-Making-Statement) |
+| 03 | Looping or Control Statements | [03-Looping-or-Control-Statement](https://github.com/Sidharth9594/core-java-coding-practice/tree/main/03-Looping-or-Control-Statement) |
+| 04 | Pattern Printing Assignment | [04-Pattern-Printing-Assignment](https://github.com/Sidharth9594/core-java-coding-practice/tree/main/04-Pattern-Printing-Assignment) |
+| 05 | Arrays with DSA | [05-Array-with-DSA](https://github.com/Sidharth9594/core-java-coding-practice/tree/main/05-Array-with-DSA) |
 
-- 📚 Topic-wise Java programming questions
-- 💻 Hands-on coding practice
-- 🧠 Logic building and problem-solving
-- 🎯 Preparation for coding assessments and technical interviews
+## Planned topics (not added yet)
 
-## 📚 Topics Covered
+- Classes and Objects (OOP)
+- Constructors and Functions (OOP)
+- Inheritance, Abstraction and Interfaces (OOP)
+- Exception Handling
+- Collection Framework (DSA)
+- Wrapper Classes and Strings
+- Multithreading
+- File Handling / IO Streams
+- JDK 1.8 Features
 
-| No. | Topic / Assignment | Folder |
-|---|---|---|
-## 📚 Topics Covered
+## Repository structure
 
-| No. | Topic | Practice Questions |
-|---|---|---|
-| 01 | Introduction of Java | [View Topic](01-Introduction-of-Java/) |
-| 02 | Decision Making Statement | [View Topic](02-Decision-Making-Statement/) |
-| 03 | Looping or Control Statement | [View Topic](03-Looping-or-Control-Statement/) |
-| 04 | Pattern Printing Assignment | [View Topic](04-Pattern-Printing-Assignment/) |
-| 05 | Array with DSA | [View Topic](05-Array-with-DSA/) |
-| 06 | Classes and Object (OOP) | `06-Classes-and-Object-OOP` |
-| 07 | Constructor and Functions (OOP) | `07-Constructor-and-Functions-OOP` |
-| 08 | Inheritance, Abstraction and Interface (OOP) | `08-Inheritance-Abstraction-and-Interface-OOP` |
-| 09 | Exception Handling | `09-Exception-Handling` |
-| 10 | Collection Framework (DSA) | `10-Collection-Framework-DSA` |
-| 11 | Wrapper Classes and Strings | `11-Wrapper-Classes-and-Strings` |
-| 12 | Multithreading | `12-Multithreading` |
-| 13 | File Handling / IOStreams | `13-File-Handling-IOStreams` |
-| 14 | JDK 1.8 Features | `14-JDK-1.8-Features` |
+    core-java-coding-practice/
+    ├── README.md
+    ├── 01-Introduction-to-Java/
+    ├── 02-Decision-Making-Statement/
+    ├── 03-Looping-or-Control-Statement/
+    ├── 04-Pattern-Printing-Assignment/
+    └── 05-Array-with-DSA/
 
-## 🛠️ Technologies Used
+Each topic folder contains the Java files for that topic's practice questions.
 
-- **Language:** Java
-- **Development Kit:** JDK
-- **Version Control:** Git
-- **Code Hosting:** GitHub
-
-## 📂 Repository Structure
-
-Each topic has its own folder containing Java source files with numbered questions for easy navigation.
-
-```text
-core-java-coding-practice/
-├── README.md
-├── 01-Introduction-of-Java/
-├── 02-Decision-Making-Statement/
-├── 03-Looping-or-Control-Statement/
-├── 04-Array-with-DSA/
-├── 05-Classes-and-Object-OOP/
-├── 06-Constructor-and-Functions-OOP/
-├── 07-Inheritance-Abstraction-and-Interface-OOP/
-├── 08-Exception-Handling/
-├── 09-Collection-Framework-DSA/
-├── 10-Wrapper-Classes-and-Strings/
-├── 11-Multithreading/
-├── 12-File-Handling-IOStreams/
-└── 13-JDK-1.8-Features/
-```
-
-## 🚀 How to Run the Programs
+## How to run
 
 1. Install the Java Development Kit (JDK).
 2. Clone or download this repository.
-3. Open the required topic folder.
-4. Compile a Java program:
+3. Open a topic folder.
+4. Compile a program: `javac FileName.java`
+5. Run it using its class name: `java FileName`
 
-   ```bash
-   javac Q01_HelloWorld.java
-   ```
+## Progress
 
-5. Run the program using its class name:
+For the topics listed above, I practiced approximately 50 to 100 questions per topic, depending on the topic. I add new folders as I cover more of the course.
 
-   ```bash
-   java Q01_HelloWorld
-   ```
+## Connect
 
-   Replace `Q01_HelloWorld` with the actual class name of your program.
-
-## 🎓 Learning Goals
-
-- Build strong Core Java fundamentals.
-- Improve logical thinking and coding accuracy.
-- Practice common programming problems.
-- Strengthen preparation for technical interviews and coding rounds.
-
-## 📈 Progress
-
-I practice approximately **50–100 questions per topic**, depending on the topic and its requirements. This repository serves as a record of my coding practice and continuous learning.
-
-## 🤝 Connect
-
-Feel free to explore the repository, review the code, and share suggestions for improvement.
-
----
-
-⭐ If you find this repository useful, consider giving it a star!
-
-**Happy Coding! ☕️**
+Portfolio: sidharthilag.in
+LinkedIn: linkedin.com/in/sidharth-ilag-269764255
+Suggestions for improvement are welcome.
